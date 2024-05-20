@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-* :woman_student: I'm pursuing ***BCA***
+* :woman_student: I'm pursuing ***MCA***
 
 * :books: I'm currently learning ***Web Development***
 
-* :woman_technologist: I'm currently working on ***Basic Projects using C#***
+* :woman_technologist: I'm currently working on ***Basic Web Development Projects***
 
 * :people_holding_hands: I'm looking to collaborate on any ***Web Development*** Projects
 
